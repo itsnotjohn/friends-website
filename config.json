@@ -1,0 +1,27 @@
+{
+    "token": "token here",
+    "channels": {
+        "lady": "",
+        "clipe": "",
+        "instagram": "",
+        "emoji": "",
+        "link": "",
+        "custom": ""
+    },
+    "firebaseConfig": {
+        "apiKey": "",
+        "authDomain": "",
+        "databaseURL": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": "",
+        "appId": "",
+        "measurementId": ""
+    },
+    "statusColor": {
+        "online": "23A55A",
+        "dnd": "F23F43",
+        "idle":"F0B232",
+        "offline":"80848E"
+    }
+}
